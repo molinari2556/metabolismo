@@ -34,7 +34,7 @@ def calculate_metabolism():
 
 app = tk.Tk()
 app.geometry('500x400')
-app.title('Calculadora de Metabolismo Basal')
+app.title('Calculadora de Metabowlismo Basal')
 
 nome_label = tk.Label(app, text='Nome:')
 nome_label.pack()
