@@ -36,6 +36,8 @@ app = tk.Tk()
 app.geometry('500x400')
 app.title('Calculadora de Metabowlismo Basal')
 
+'''app.configure(background="white")'''
+
 nome_label = tk.Label(app, text='Nome:')
 nome_label.pack()
 nome_entry = tk.Entry(app)
